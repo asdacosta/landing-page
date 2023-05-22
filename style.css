@@ -78,6 +78,8 @@ button {
 main img {
     width: 150px;
     height: auto;
+    border: 5px solid #1F2937;
+    border-radius: 20px;
 }
 
 .mainsec-1 {
