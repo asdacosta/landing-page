@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 2px solid teal;
+    /* border: 2px solid teal; */
 }
 
 a {
@@ -35,7 +35,7 @@ li:first-child {
 header {
     display: flex;
     justify-content: space-evenly;
-    padding: 10px;
+    padding: 50px 0;
 }
 
 .fig-1 > img, header > section {
@@ -43,7 +43,7 @@ header {
     height: auto;
 }
 
-nav, header, footer {
+nav, header, .bodyfoot {
     background-color: #1F2937;
     color: white;
 }
@@ -72,4 +72,63 @@ button, .mainfoot {
 
 button {
     padding: 3px;
+    border: 1px solid white ;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+.mainsec-1 {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+h2 {
+    margin: auto;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 20px;
+}
+
+figcaption {
+    width: 150px;
+    height: auto;
+    text-align: center;
+}
+
+.mainfigs {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 70px;
+}
+
+.quote {
+    padding: 50px 150px;
+    background-color: #E5E7EB;
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote footer {
+    text-align: right;
+}
+
+.mainfoot {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 150px;
+    padding: 20px 0;
+}
+
+.bodyfoot {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
 }
