@@ -4,10 +4,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 2px solid teal;
 }
 
 a {
     text-decoration: none;
+    color: white;
 }
 
 /* Styling */
@@ -18,4 +20,56 @@ body {
 
 nav li {
     list-style-type: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+li:first-child {
+    margin-right: 250px;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.fig-1 > img, header > section {
+    width: 400px;
+    height: auto;
+}
+
+nav, header, footer {
+    background-color: #1F2937;
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+header p, .navlink {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+button, .mainfoot {
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
+
+button {
+    padding: 3px;
 }
