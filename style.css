@@ -102,6 +102,7 @@ figcaption {
 .mainfigs {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     padding: 10px 70px;
 }
 
