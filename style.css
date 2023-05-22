@@ -132,3 +132,7 @@ figcaption {
     justify-content: center;
     padding: 10px;
 }
+
+a:hover {
+    color: rgb(161, 161, 161);
+}
