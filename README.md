@@ -23,4 +23,5 @@ Developers, users, and recruiters.
 |`index.html`|Raw html file of website that uses `Semantic elements`.|
 |`style.css`|Stylesheet for `index.html` that focuses on the topic `Flexbox` in CSS.|
 |`imgs/*`|The images used in the website.|
+
 [Landing Page Website](https://asdacosta.github.io/landing-page/)
