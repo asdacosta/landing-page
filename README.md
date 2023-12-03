@@ -55,6 +55,7 @@ Developers, users, recruiters.
 |`style.css`|Stylesheet for `index.html` that focuses on the topic `Flexbox` in CSS.|
 |`imgs/*`|The images used in the website.|
 
+<<<<<<< HEAD
 </details>
 
 ## 🔄 Improvements
@@ -74,3 +75,6 @@ No improvements
 > Seek contributor's consent for any code usage.
 
 **[🞁 Top](#landing-page)**
+=======
+[Landing Page Website](https://asdacosta.github.io/landing-page/)
+>>>>>>> 74beb20be7702a3042e31b57a57ee9928a638967
