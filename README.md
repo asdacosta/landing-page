@@ -66,6 +66,4 @@ No improvements
 1. [Abraham Da Costa Silvanus](https://github.com/asdacosta) 
 
 **[🞁 Top](#landing-page)**
-=======
-[Landing Page Website](https://asdacosta.github.io/landing-page/)
->>>>>>> 74beb20be7702a3042e31b57a57ee9928a638967
+
